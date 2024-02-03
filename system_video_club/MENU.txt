@@ -1,0 +1,15 @@
+  1~ Ingreso Usuario del sistema
+  2~ Ingreso roles de usuario
+  3~ Ingreso de clientes
+  4~ Ingreso de Peliculas
+  5~ Mantenimiento-  Operador movil
+  6~ Mantemimiento - Estado civil
+  7~ Mantenimiento - Tipo de cliente
+  8~ Mantenimiento - Genero
+  9~ Mantenimento  - Estado
+ 10~ Mantemimiento - Tipo de Pelicula
+ 11~ Mantenimiento - Genero de pelicula
+ 12~ Mantenimiento - Actores de Cine
+ 13~ Mantenimiento - Directores de Cine
+ 14~ Mantenimiento - Productora de cine
+ 15~ Alquile de peliculas

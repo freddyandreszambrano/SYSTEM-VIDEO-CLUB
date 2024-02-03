@@ -1,0 +1,6 @@
+
+usuario29:Id_user = Us29,Nombre = andres,Password = asdas,Rol = admi,Fecha_ingreso = junio
+usuario30:Id_user = Us30,Nombre = andres,Password = asdf,Rol = asdf,Fecha_ingreso = asdf
+usuario31:Id_user = Us31,Nombre = andres,Password = asdf,Rol = as,Fecha_ingreso = fsd
+usuario32:Id_user = Us32,Nombre = andres,Password = flll,Rol = user,Fecha_ingreso = julio
+usuario33:Id_user = Us33,Nombre = asd,Password = afd,Rol = asd,Fecha_ingreso = as

@@ -1,0 +1,15 @@
+UserSystem:33
+PelClasifica:1
+PeliculaSystem:9
+PelGenero:6
+StateSystem:3
+GeneroPersonSystem:3
+OperaMovil:7
+EstadoCivilSystem:7
+ClientTipoSystem:4
+PelTipoSystem:5
+ProductoraCine:4
+ActorCine:11
+RolUserSystem:6
+DirectorCine:4
+ClientSystem:8
